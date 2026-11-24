@@ -1,0 +1,12 @@
+﻿HELLO WORLD APPLICATION - USER GUIDE
+
+Author: Tara El Khoury
+Version: 1.0
+
+1. Install the application using the MSI installer.
+2. Navigate to the installation directory.
+3. Run HelloWorld_Tara_ElKhoury.exe.
+4. The console displays:
+   Hello, World from Tara_ElKhoury!
+
+The application requires no user input.

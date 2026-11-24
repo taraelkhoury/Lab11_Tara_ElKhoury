@@ -1,0 +1,7 @@
+package: helloworld-tara-elkhoury
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Tara El Khoury <tje05@mail.aub.edu>
+Description: a simple Hello World application

@@ -1,0 +1,9 @@
+Hello World Application - User Guide
+Author: Tara El Khoury
+Version: 1.0
+Installation:
+sudo dpkg -i helloworld_Tara_ElKhoury.deb
+Execution:
+helloworld
+Expected Output:
+Hello, World from Tara_ElKhoury!
